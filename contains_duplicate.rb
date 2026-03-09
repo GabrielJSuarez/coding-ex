@@ -20,7 +20,7 @@ def contains_duplicate(nums)
 
   false
 
-  # according to leetcode, ruby method is faster
+  # # according to leetcode, ruby method is faster
 end
 
 p contains_duplicate(nums)
